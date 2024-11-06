@@ -18,7 +18,8 @@
 </pre>
 <hr>
 
-## My Skills Include
+## My Skills Include 
+<img src="https://cdn.7tv.app/emote/01HWVAX24R00025GNME6G25QKK/4x.webp">
 
 <h4> Languages </h4>
 <span> 
