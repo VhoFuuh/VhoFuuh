@@ -1,7 +1,22 @@
-<h1 align="center"><b>Hi, I'm Abdul Khalid</b> 
-    <img src="https://7tv.app/emotes/01GYE2F5R8000AZEKJ06WRK4ZS" width="35">
+<h1 align="center"><b>Hi, I'm Vicente Méndez</b> 
+    <img src="https://cdn.7tv.app/emote/01GYE2F5R8000AZEKJ06WRK4ZS/4x.webp" width="35">
 </h1>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
+<div align="center">
+
+<hr>
+
+<pre>
+💻 Fourth year computer science student, soon to do internship. 
+📚 Specialty in backend development, with a strong focus on databases. 
+📝 Main language: Python, and in the process of learning PHP and MySQL 
+🌱 Passionate about projects that offer learning and growth opportunities in IT. 
+🌟 Interested in server-side application development and efficient data management.
+</pre>
+<hr>
 
 ## My Skills Include
 
@@ -10,19 +25,19 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 </span>
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 <h4> IDE </h4>
@@ -35,6 +50,7 @@
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 
 </span>
 
